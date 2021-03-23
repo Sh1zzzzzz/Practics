@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2df86ae4-2800-49ba-ade3-85b1dbe8c773" name="Default Changelist" comment="" />
+    <list default="true" id="2df86ae4-2800-49ba-ade3-85b1dbe8c773" name="Default Changelist" comment="+ Задание 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616531075257</updated>
       <workItem from="1616531079837" duration="1448000" />
+      <workItem from="1616535332029" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="+ First 2 practics.">
       <created>1616531978338</created>
@@ -99,13 +100,20 @@
       <option name="project" value="LOCAL" />
       <updated>1616532192152</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="+ Задание 2">
+      <created>1616535406621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616535406621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -117,6 +125,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -129,29 +138,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="137" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1616532270969" />
-    <state width="1306" height="187" key="GridCell.Tab.0.bottom" timestamp="1616532245348">
+    <state width="433" height="639" key="GridCell.Tab.0.bottom" timestamp="1616535447507">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1616532245348" />
-    <state width="1306" height="187" key="GridCell.Tab.0.center" timestamp="1616532245348">
+    <state width="433" height="639" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1616535447507" />
+    <state width="433" height="639" key="GridCell.Tab.0.center" timestamp="1616535447507">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1616532245348" />
-    <state width="1306" height="187" key="GridCell.Tab.0.left" timestamp="1616532245347">
+    <state width="433" height="639" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1616535447507" />
+    <state width="433" height="639" key="GridCell.Tab.0.left" timestamp="1616535447507">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1616532245347" />
-    <state width="1306" height="187" key="GridCell.Tab.0.right" timestamp="1616532245348">
+    <state width="433" height="639" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1616535447507" />
+    <state width="433" height="639" key="GridCell.Tab.0.right" timestamp="1616535447507">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1306" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1616532245348" />
+    <state width="433" height="639" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1616535447507" />
     <state x="275" y="118" key="Rider.ProjectTemplateDialog.Size" timestamp="1616531778678">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="118" key="Rider.ProjectTemplateDialog.Size/0.0.1366.768@0.0.1366.768" timestamp="1616531778678" />
-    <state x="275" y="122" key="Vcs.Push.Dialog.v2" timestamp="1616532195274">
+    <state x="275" y="122" key="Vcs.Push.Dialog.v2" timestamp="1616535408604">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="122" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1616532195274" />
+    <state x="275" y="122" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1616535408604" />
   </component>
 </project>
