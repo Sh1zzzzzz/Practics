@@ -24,6 +24,7 @@
 * `Задание 1`
 Реализовать программу, вычисляющую следующие математические примеры с использованием переменной *х*, вводимой с клавиатуры в TextBox.
 
+```
 5  = (x + Math.Sin(0.5 * x) + Math.Sqrt(Math.Log(x, 10)) / (2 + 3 * Math.Cos(x)) + (Math.Pow(Math.E, 2 * x - 0.5)) / (2 + x))
 
 8  = (3 * (x * x - Math.Abs(3 * x) + Math.Abs(1 - Math.Cos(x * x)))) / (2 * Math.Pow(Math.E, 3 * x - 2) - 3 * ((2 + x) / x))
@@ -33,6 +34,7 @@
 14 = (Math.Sqrt(2 + 0.5 * x * x + Math.Pow(Math.E, x + 2))) / (x * x * x - 3 * Math.Pow(2 * x - 1, 2))
 
 2  = (0.5 * x * x - 1) / (Math.Sqrt(x)) + (Math.Abs(10 - Math.Pow(Math.E, 0.5 * x * x + 1))) / (Math.Log(2 * x, 10) - 1)
+```
 
 * `Задание 2`
 
