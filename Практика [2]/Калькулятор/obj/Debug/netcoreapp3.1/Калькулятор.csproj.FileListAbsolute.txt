@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.exe
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.deps.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.runtimeconfig.dev.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\bin\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csprojAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.dll
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.genruntimeconfig.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.Form1.resources
+C:\Users\ASUS\RiderProjects\Practics\Практика [2]\Калькулятор\obj\Debug\netcoreapp3.1\Калькулятор.csproj.GenerateResource.cache
