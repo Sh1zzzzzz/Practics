@@ -15,7 +15,7 @@ namespace Задание_2
         public Form1()
         {
             InitializeComponent();
-            this.BackColor = Color.GreenYellow;
+            this.BackColor = Color.DodgerBlue;
         }
 
         private void Form1_Load(object sender, EventArgs e)
