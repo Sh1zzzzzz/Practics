@@ -25,7 +25,7 @@ namespace Задание_14
         private void button2_Click(object sender, EventArgs e)
         {
             button2.Text = "Мина!";
-            this.BackColor = Color.DarkRed;
+            this.BackColor = Color.Red;
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -51,7 +51,7 @@ namespace Задание_14
         private void button9_Click(object sender, EventArgs e)
         {
             button9.Text = "Мина!";
-            this.BackColor = Color.DarkRed;
+            this.BackColor = Color.Red;
         }
 
         private void button8_Click(object sender, EventArgs e)
