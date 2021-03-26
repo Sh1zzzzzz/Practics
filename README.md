@@ -44,9 +44,25 @@
 
 ### Практическое занятие №3
 
-* `Задание Х`
+* `Задание 2`
 
-Скоро.
+![equation1](https://user-images.githubusercontent.com/66788603/112699144-3a5abe80-8e9c-11eb-8ca1-238336539e42.png)
+
+* `Задание 5`
+
+![equation2](https://user-images.githubusercontent.com/66788603/112699396-c53bb900-8e9c-11eb-971a-57df24d3ae0e.png)
+
+* `Задание 8`
+
+![equation3](https://user-images.githubusercontent.com/66788603/112699618-4430f180-8e9d-11eb-8303-1ceafeaa5f89.png)
+
+* `Задание 11`
+
+![equation4](https://user-images.githubusercontent.com/66788603/112699959-14ceb480-8e9e-11eb-8120-20ef21583ced.png)
+
+* `Задание 14`
+
+![equation5](https://user-images.githubusercontent.com/66788603/112700091-6b3bf300-8e9e-11eb-8586-38035f31efa4.png)
 
 #
 
