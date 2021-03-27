@@ -68,9 +68,25 @@
 
 ### Практическое занятие №4
 
-* `Задание Х`
+* `Задание 2`
 
-Скоро.
+![equation12](https://user-images.githubusercontent.com/66788603/112729227-31212e80-8f3c-11eb-9bac-6b79a74896a0.png)
+
+* `Задание 5`
+
+![equation15](https://user-images.githubusercontent.com/66788603/112729283-72194300-8f3c-11eb-85c8-6ffbeb1175bd.png)
+
+* `Задание 8`
+
+![equation18](https://user-images.githubusercontent.com/66788603/112729324-970db600-8f3c-11eb-90b7-6a85c8114eae.png)
+
+* `Задание 11`
+
+![equation11](https://user-images.githubusercontent.com/66788603/112729404-f79cf300-8f3c-11eb-9628-c048159b45de.png)
+
+* `Задание 14`
+
+![equation14](https://user-images.githubusercontent.com/66788603/112729370-ccb29f00-8f3c-11eb-9743-4c351f365274.png)
 
 #
 
