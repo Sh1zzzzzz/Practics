@@ -1,0 +1,15 @@
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.exe
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.deps.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.runtimeconfig.dev.json
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.dll
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\bin\Debug\netcoreapp3.1\Задание 8.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csprojAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание_8.Form1.resources
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.GenerateResource.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.dll
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [5]\Задание 8\obj\Debug\netcoreapp3.1\Задание 8.genruntimeconfig.cache
