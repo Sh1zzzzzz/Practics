@@ -24,17 +24,15 @@
 * `Задание 1`
 Реализовать программу, вычисляющую следующие математические примеры с использованием переменной *х*, вводимой с клавиатуры в TextBox.
 
-```
-5  = (x + Math.Sin(0.5 * x) + Math.Sqrt(Math.Log(x, 10)) / (2 + 3 * Math.Cos(x)) + (Math.Pow(Math.E, 2 * x - 0.5)) / (2 + x))
+![equation31](https://user-images.githubusercontent.com/66788603/113326265-1d057480-9322-11eb-8909-3321f18f1350.png)
 
-8  = (3 * (x * x - Math.Abs(3 * x) + Math.Abs(1 - Math.Cos(x * x)))) / (2 * Math.Pow(Math.E, 3 * x - 2) - 3 * ((2 + x) / x))
+![equation32](https://user-images.githubusercontent.com/66788603/113327187-4ffc3800-9323-11eb-879b-0277beefd1e5.png)
 
-11 = (Math.Sqrt(3 + Math.Log(x, 10) + 15 - x)) / (1 + Math.Sin((2 + x * x) / (1 + x)))
+![equation33](https://user-images.githubusercontent.com/66788603/113327902-314a7100-9324-11eb-9a9b-a6bcee0ff56d.png)
 
-14 = (Math.Sqrt(2 + 0.5 * x * x + Math.Pow(Math.E, x + 2))) / (x * x * x - 3 * Math.Pow(2 * x - 1, 2))
+![equation34](https://user-images.githubusercontent.com/66788603/113328240-afa71300-9324-11eb-9505-a62eb158f3cc.png)
 
-2  = (0.5 * x * x - 1) / (Math.Sqrt(x)) + (Math.Abs(10 - Math.Pow(Math.E, 0.5 * x * x + 1))) / (Math.Log(2 * x, 10) - 1)
-```
+![equation35](https://user-images.githubusercontent.com/66788603/113328605-35c35980-9325-11eb-9a85-6da69bd1bd88.png)
 
 * `Задание 2`
 
@@ -152,3 +150,27 @@
 
 * `Вариант 14`
 Найти в каждой строке матрицы минимальный среди среди положительных элементов.
+
+### [Практическое занятие №8](https://github.com/l-Il/Practics/tree/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%20%5B8%5D)
+
+Постройте графики функций для соответствующих вариантов из лабораторной работы №2. Таблицу данных получить путём изменения параметра X с шагом h. Самостоятельно выбрать удобные параметры настройки.
+
+* `Задание 2`
+
+![equation21](https://user-images.githubusercontent.com/66788603/113326265-1d057480-9322-11eb-8909-3321f18f1350.png)
+
+* `Задание 5`
+
+![equation22](https://user-images.githubusercontent.com/66788603/113327187-4ffc3800-9323-11eb-879b-0277beefd1e5.png)
+
+* `Задание 8`
+
+![equation23](https://user-images.githubusercontent.com/66788603/113327902-314a7100-9324-11eb-9a9b-a6bcee0ff56d.png)
+
+* `Задание 11`
+
+![equation24](https://user-images.githubusercontent.com/66788603/113328240-afa71300-9324-11eb-9505-a62eb158f3cc.png)
+
+* `Задание 14`
+
+![equation25](https://user-images.githubusercontent.com/66788603/113328605-35c35980-9325-11eb-9a85-6da69bd1bd88.png)
