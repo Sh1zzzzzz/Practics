@@ -1,0 +1,10 @@
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\bin\Debug\Задание_5.exe.config
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\bin\Debug\Задание_5.exe
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\bin\Debug\Задание_5.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание 5.csprojAssemblyReference.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание_5.Properties.Resources.resources
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание 5.csproj.GenerateResource.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание_5.exe
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание_5.pdb
+C:\Users\ASUS\RiderProjects\Practics\Практика [10]\Задание 5\obj\Debug\Задание_5.Form1.resources
