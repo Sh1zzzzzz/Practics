@@ -80,8 +80,8 @@ namespace Задание_1
             chart.SetBounds(12, 184, 486, 206);
             
             area.Name = "001";
-            area.AxisX.Minimum = 0.0;
-            area.AxisX.Maximum = 1.0;
+            area.AxisX.Minimum = Convert.ToDouble(dataGridView1.Rows[0].Cells[0].Value);
+            area.AxisX.Maximum = Convert.ToDouble(dataGridView1.Rows[5].Cells[0].Value);
             area.AxisX.MajorGrid.Interval = 0.2;
             area.AxisX.MajorGrid.Enabled = false;
             area.AxisY.Minimum = 0.0;
@@ -177,6 +177,99 @@ namespace Задание_1
                 poly2.Points.AddXY(double.Parse(dataGridView5.Rows[i].Cells[0].Value.ToString()), double.Parse(dataGridView5.Rows[i].Cells[1].Value.ToString()));
             area.AxisX.MajorGrid.Interval = 0.2;
             button5.Enabled = false;
+        }
+         
+        
+        // (DEBUG) Функция изменения варианта
+        private void button6_Click(object sender, EventArgs e)
+        {
+            switch (textBox1.Text)
+            {
+                case "1":
+                    A = new double[6, 2]{   { 0.0, 3.0 },
+                                            { 0.2, 6.0 },
+                                            { 0.4, 3.0 },
+                                            { 0.6, 6.0 },
+                                            { 0.8, 4.0 },
+                                            { 1.0, 3.0 }};
+                    break;
+                case "2":
+                    A = new double[6, 2]{   { 0.0, 5.0 },
+                                            { 0.2, 5.0 },
+                                            { 0.4, 4.0 },
+                                            { 0.6, 4.0 },
+                                            { 0.8, 6.0 },
+                                            { 1.0, 6.0 }};
+                    break;
+                case "3":
+                    A = new double[6, 2]{   { 3.0, 2.0 },
+                                            { 3.2, 3.0 },
+                                            { 3.4, 3.0 },
+                                            { 3.6, 3.0 },
+                                            { 3.8, 2.0 },
+                                            { 4.0, 4.0 }};
+                    break;
+                case "4":
+                    A = new double[6, 2]{   { 3.0, 6.0 },
+                                            { 3.2, 2.0 },
+                                            { 3.4, 6.0 },
+                                            { 3.6, 4.0 },
+                                            { 3.8, 3.0 },
+                                            { 4.0, 4.0 }};
+                    break;
+                case "5":
+                    A = new double[6, 2]{   { 5.0, 2.0 },
+                                            { 5.2, 4.0 },
+                                            { 5.4, 4.0 },
+                                            { 5.6, 3.0 },
+                                            { 5.8, 3.0 },
+                                            { 6.0, 3.0 }};
+                    break;
+                case "6":
+                    A = new double[6, 2]{   { 4.0, 4.0 },
+                                            { 4.2, 3.0 },
+                                            { 4.4, 6.0 },
+                                            { 4.6, 6.0 },
+                                            { 4.8, 4.0 },
+                                            { 5.0, 4.0 }};
+                    break;
+                case "7":
+                    A = new double[6, 2]{   { 1.0, 2.0 },
+                                            { 1.2, 6.0 },
+                                            { 1.4, 4.0 },
+                                            { 1.6, 4.0 },
+                                            { 1.8, 2.0 },
+                                            { 2.0, 5.0 }};
+                    break;
+                case "8":
+                    A = new double[6, 2]{   { 5.0, 3.0 },
+                                            { 5.2, 2.0 },
+                                            { 5.4, 5.0 },
+                                            { 5.6, 2.0 },
+                                            { 5.8, 2.0 },
+                                            { 6.0, 3.0 }};
+                    break;
+                case "9":
+                    A = new double[6, 2]{   { 2.0, 4.0 },
+                                            { 2.2, 2.0 },
+                                            { 2.4, 4.0 },
+                                            { 2.6, 2.0 },
+                                            { 2.8, 5.0 },
+                                            { 3.0, 2.0 }};
+                    break;
+                default:
+                    A = new double[6, 2]{   { 0.0, 6.0 },
+                                            { 0.2, 3.0 },
+                                            { 0.4, 2.0 },
+                                            { 0.6, 6.0 },
+                                            { 0.8, 2.0 },
+                                            { 1.0, 5.0 }};
+                    break;
+
+            }
+            for (int i=0; i<6; i++)
+            for (int j=0; j<2; j++)
+                dataGridView1.Rows[i].Cells[j].Value = Convert.ToString(A[i,j]);
         }
     }
 }
