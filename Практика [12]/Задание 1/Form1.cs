@@ -104,12 +104,13 @@ namespace Задание_1
         // Подсчёт системы №1 (Сделать)
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 2; i++)
-            {
-                dataGridView3.Rows[i].Cells[0].Value = Convert.ToString(Math.Round(rnd.NextDouble() * (1.0), 2));
-                dataGridView3.Rows[i].Cells[1].Value = Convert.ToString(Math.Round(rnd.NextDouble() * (7.0), 2));
-            }
-
+            dataGridView3.Rows[0].Cells[0].Value = dataGridView1.Rows[0].Cells[0].Value;
+            dataGridView3.Rows[0].Cells[1].Value =
+                (Convert.ToDouble(dataGridView1.Rows[0].Cells[1].Value) + Convert.ToDouble(dataGridView1.Rows[1].Cells[1].Value)) / 2;
+            dataGridView3.Rows[1].Cells[0].Value = dataGridView1.Rows[5].Cells[0].Value;
+            dataGridView3.Rows[1].Cells[1].Value = 
+                (Convert.ToDouble(dataGridView1.Rows[4].Cells[1].Value) + Convert.ToDouble(dataGridView1.Rows[5].Cells[1].Value)) / 2;
+            
             button1.Enabled = false;
             button4.Enabled = true;
         }
@@ -118,11 +119,13 @@ namespace Задание_1
         private void button2_Click(object sender, EventArgs e)
         {
             dataGridView5.Rows[0].Cells[0].Value = dataGridView3.Rows[0].Cells[0].Value;
-            dataGridView5.Rows[0].Cells[1].Value = dataGridView3.Rows[0].Cells[1].Value;
-            dataGridView5.Rows[1].Cells[0].Value = Convert.ToString(Math.Round(rnd.NextDouble() * (1.0), 2));
-            dataGridView5.Rows[1].Cells[1].Value = Convert.ToString(Math.Round(rnd.NextDouble() * (7.0), 2));
+            dataGridView5.Rows[0].Cells[1].Value = Convert.ToDouble(dataGridView3.Rows[0].Cells[1].Value) - 0.5;
+            dataGridView5.Rows[1].Cells[0].Value =
+                (Convert.ToDouble(dataGridView1.Rows[2].Cells[0].Value) + Convert.ToDouble(dataGridView1.Rows[3].Cells[0].Value)) / 2 - 0.01;
+            dataGridView5.Rows[1].Cells[1].Value =
+                (Convert.ToDouble(dataGridView1.Rows[2].Cells[1].Value) + Convert.ToDouble(dataGridView1.Rows[3].Cells[1].Value)) / 2 + 0.5;
             dataGridView5.Rows[2].Cells[0].Value = dataGridView3.Rows[1].Cells[0].Value;
-            dataGridView5.Rows[2].Cells[1].Value = dataGridView3.Rows[1].Cells[1].Value;
+            dataGridView5.Rows[2].Cells[1].Value = Convert.ToDouble(dataGridView3.Rows[1].Cells[1].Value) - 0.5;
             
             button2.Enabled = false;
             button5.Enabled = true;
@@ -150,7 +153,8 @@ namespace Задание_1
             var poly1 = new Series() {
             LegendText = "Полином первой степени",
             ChartType = SeriesChartType.Line,
-            Color = Color.DarkGoldenrod,
+            Color = Color.DarkRed,
+            BorderWidth = 2
             };
             chart.Series.Add(poly1);
             for (int i = 0; i < 2; i++)
@@ -165,7 +169,8 @@ namespace Задание_1
             var poly2 = new Series() {
                 LegendText = "Полином второй степени",
                 ChartType = SeriesChartType.Spline,
-                Color = Color.DarkRed,
+                Color = Color.DarkGoldenrod,
+                BorderWidth = 2
             };
             chart.Series.Add(poly2);
             for (int i = 0; i < 3; i++)
